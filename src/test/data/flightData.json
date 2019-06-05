@@ -1,0 +1,58 @@
+{
+
+      "airline_code": "QF",
+
+      "airline_icao_code": "QFA",
+
+      "flight_number": "0011",
+
+      "origin_date": "2018-05-10",
+
+      "departure_airport": "LAX",
+
+      "arrival_airport": "JFK",
+
+      "operational_status": "Planned",
+
+      "aircraft_type": "744",
+
+      "registration": "VHOEE",
+
+      "schedule_departure_utc": "2018-05-10T15:20:00Z",
+
+      "schedule_arrival_utc": "2018-05-10T20:40:00Z",
+
+      "schedule_departure_local": "2018-05-10T08:20:00.000-07:00",
+
+      "schedule_arrival_local": "2018-05-10T16:40:00.000-04:00",
+
+      "cabin_classes": [
+
+        {
+
+          "class": "W",
+
+          "capacity": 36
+
+        },
+
+        {
+
+          "class": "Y",
+
+          "capacity": 270
+
+        },
+
+        {
+
+          "class": "J",
+
+          "capacity": 58
+
+        }
+
+      ]
+
+    }
+

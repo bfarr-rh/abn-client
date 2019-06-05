@@ -1,0 +1,4 @@
+time,type,className,arrivalDistrRef,serviceDistrRef,var#1,var#2,var#3,var#4,var#5
+07:45,D,com.redhat.cep.util.ExponentialDistribution,edist1,,11111,1800,0,,
+07:45,E,PatientArrivalEvent,edist1,,Q1,OP2,0,,
+12:00,T,,,,,,,,
