@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.redhat.demo</groupId>
-  <artifactId>blacklist-client</artifactId>
+  <artifactId>abn-client</artifactId>
   <packaging>jar</packaging>
   <version>1.8.3</version>
-  <name>Rules Demo</name>
+  <name>ABN Client</name>
   <url>http://maven.apache.org</url>
 
 
@@ -24,7 +24,6 @@
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
       <version>20180130</version>
-      <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
