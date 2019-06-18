@@ -59,7 +59,7 @@ public class Client {
 
 		List<String> list = Arrays.asList("35090438485");
 		for (String abn : list) {
-			System.out.println("Abn " + abn + " lookup result " + service.checkabn(name));
+			System.out.println("Abn " + abn + " lookup result " + service.checkabn(abn));
 		}
 		/*
 		{
