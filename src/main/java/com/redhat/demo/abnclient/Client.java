@@ -45,7 +45,7 @@ public class Client {
 			JSONObject jsonObject = new JSONObject(content);
 			String message = (String) jsonObject.get("Message");
 			String abnStatus = (String) jsonObject.get("AbnStatus");
-			return abnStatus;
+			return abnStatus + "," + message;
 		} finally {
 			httpClient.getConnectionManager().shutdown();
 		}
